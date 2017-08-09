@@ -86,6 +86,7 @@ There are a few 3D-printed cases that are being designed, so check back here for
 * [Robert Silvers and Eric Burt's case for Explorer and 2500 mAh battery](http://www.thingiverse.com/thing:2282398)
 * [Robert Silvers' case for Explorer and 2000 or 2500 mAh battery](http://www.thingiverse.com/thing:2291125)
 * [Small Plastic Clear Case for 2500 mAh battery](http://www.ebay.com/itm/272062812611) - Since a Tic-Tac box is too small for the 2500 mAh battery.
+* [ABS case which will hold 4400 mAh (2 x 18650) ganged batteries](https://ca-en.alliedelec.com/polycase-lp-41pxxt/70233249/) - this case will hold batteries, EB/edison, HM-11 (or similar), wixel and adafruit charger board.
 
 ### Soft Cases 
 * [TallyGear soft case](http://www.tallygear.com/index.php?route=product/category&path=120) - these are the soft cases Dana uses ([see this example](https://twitter.com/danamlewis/status/792782116140388353)). The OpenAPS-sized case can be made any any pattern/fabric she uses elsewhere on the site.
